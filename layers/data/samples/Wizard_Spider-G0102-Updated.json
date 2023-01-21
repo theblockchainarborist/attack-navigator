@@ -3,7 +3,7 @@
 	"versions": {
 		"attack": "8",
 		"navigator": "4.0",
-		"layer": "4.0"
+		"layer": "4.4"
 	},
 	"domain": "enterprise-attack",
 	"description": "Enterprise techniques used by Wizard Spider, ATT&CK group G0102 v1.1",
