@@ -1,5 +1,4 @@
 {
-[
 {
 	"name": "layer2",
 	"versions": {
@@ -94,6 +93,4 @@
 	"selectTechniquesAcrossTactics": true,
 	"selectSubtechniquesWithParent": false
 }
-
-]
 }
