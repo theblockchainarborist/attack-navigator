@@ -1,5 +1,57 @@
+[
 {
-	"name": "layer",
+	"name": "layer2",
+	"versions": {
+		"attack": "12",
+		"navigator": "4.8.0",
+		"layer": "4.4"
+	},
+	"domain": "ics-attack",
+	"description": "",
+	"filters": {
+		"platforms": [
+			"Field Controller/RTU/PLC/IED",
+			"Device Configuration/Parameters",
+			"Human-Machine Interface",
+			"Control Server",
+			"Data Historian",
+			"Engineering Workstation",
+			"Safety Instrumented System/Protection Relay",
+			"None",
+			"Input/Output Server",
+			"Windows"
+		]
+	},
+	"sorting": 0,
+	"layout": {
+		"layout": "side",
+		"aggregateFunction": "average",
+		"showID": false,
+		"showName": true,
+		"showAggregateScores": false,
+		"countUnscored": false
+	},
+	"hideDisabled": false,
+	"techniques": [],
+	"gradient": {
+		"colors": [
+			"#ff6666ff",
+			"#ffe766ff",
+			"#8ec843ff"
+		],
+		"minValue": 0,
+		"maxValue": 100
+	},
+	"legendItems": [],
+	"metadata": [],
+	"links": [],
+	"showTacticRowBackground": false,
+	"tacticRowBackground": "#dddddd",
+	"selectTechniquesAcrossTactics": true,
+	"selectSubtechniquesWithParent": false
+},
+{
+	"name": "layer1",
 	"versions": {
 		"attack": "12",
 		"navigator": "4.8.0",
@@ -23,13 +75,7 @@
 		"countUnscored": false
 	},
 	"hideDisabled": false,
-	"techniques": [
-	{
-            "techniqueID": "",
-            "comment": "",
-            "color": "#ff6666"
-        }
-	],
+	"techniques": [],
 	"gradient": {
 		"colors": [
 			"#ff6666ff",
@@ -47,3 +93,5 @@
 	"selectTechniquesAcrossTactics": true,
 	"selectSubtechniquesWithParent": false
 }
+
+]
