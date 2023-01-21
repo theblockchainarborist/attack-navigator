@@ -1,6 +1,6 @@
 {
     "name": "heatmap example",
-    "version": "3.0",
+    "version": "4.4",
     "sorting": 3,
     "description": "An example layer where all techniques have a randomized score",
     "domain": "mitre-enterprise",
