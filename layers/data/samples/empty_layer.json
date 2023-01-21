@@ -5,6 +5,14 @@
 		"navigator": "4.8.0",
 		"layer": "4.4"
 	},
+	"domain": "mobile-attack",
+	"description": "",
+	"filters": {
+		"platforms": [
+			"Android",
+			"iOS"
+		]
+	},
 	"sorting": 0,
 	"layout": {
 		"layout": "side",
