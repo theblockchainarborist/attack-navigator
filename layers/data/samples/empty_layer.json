@@ -25,8 +25,8 @@
 	"hideDisabled": false,
 	"techniques": [
 	{
-            "techniqueID": "T1001.001",
-            "comment": "used by Fancy Bear",
+            "techniqueID": "",
+            "comment": "",
             "color": "#ff6666"
         }
 	],
