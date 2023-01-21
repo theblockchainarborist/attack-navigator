@@ -23,7 +23,13 @@
 		"countUnscored": false
 	},
 	"hideDisabled": false,
-	"techniques": [],
+	"techniques": [
+	{
+            "techniqueID": "T1001.001",
+            "comment": "used by Fancy Bear",
+            "color": "#ff6666"
+        }
+	],
 	"gradient": {
 		"colors": [
 			"#ff6666ff",
