@@ -1,7 +1,7 @@
 {
     "name": "Software (tool) Execution",
     "description": "All techniques that can be executed by software of subtype tool, where the score is the count of tools using the technique",
-    "version": "3.0",
+    "version": "4.4",
     "domain": "mitre-enterprise",
     "techniques": [
         {
